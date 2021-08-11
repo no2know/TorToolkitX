@@ -59,7 +59,7 @@
     },  
     "FORCE_DOCUMENTS": {
       "description": "True/False",
-      "value": "True" 
+      "value": "False" 
     },
     "LEECH_ENABLED": {
       "description": "True/False",
